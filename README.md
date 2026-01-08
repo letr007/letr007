@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Letr
+
+还没有想好写什么，先空着吧
 
 <!--
 **letr007/letr007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
